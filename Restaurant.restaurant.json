@@ -1,0 +1,800 @@
+[{
+  "_id": {
+    "$oid": "6581411baf8e65a102850816"
+  },
+  "address": {
+    "building": "2001",
+    "coord": [
+      -73.856177,
+      40.848547
+    ],
+    "street": "Oak Avenue",
+    "zipcode": "10464"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 90
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "B",
+      "score": 85
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 88
+    }
+  ],
+  "name": "Sweet Sensation Bakery",
+  "restaurant_id": "30075447"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850817"
+  },
+  "address": {
+    "building": "1205",
+    "coord": [
+      -73.855977,
+      40.848347
+    ],
+    "street": "Pine Street",
+    "zipcode": "10465"
+  },
+  "cuisine": "Cafeteria",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 91
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 94
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 89
+    }
+  ],
+  "name": "Cafeteria Bliss",
+  "restaurant_id": "30075448"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850818"
+  },
+  "address": {
+    "building": "1802",
+    "coord": [
+      -73.856277,
+      40.848647
+    ],
+    "street": "Maple Lane",
+    "zipcode": "10466"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "B",
+      "score": 82
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 93
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 87
+    }
+  ],
+  "name": "Maple Delights Bakery",
+  "restaurant_id": "30075449"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850819"
+  },
+  "address": {
+    "building": "2203",
+    "coord": [
+      -73.856377,
+      40.848747
+    ],
+    "street": "Cedar Street",
+    "zipcode": "10467"
+  },
+  "cuisine": "Cafeteria Cuisine",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 87
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 92
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "B",
+      "score": 84
+    }
+  ],
+  "name": "Cedar Cafeteria",
+  "restaurant_id": "30075450"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a10285081a"
+  },
+  "address": {
+    "building": "1504",
+    "coord": [
+      -73.856477,
+      40.848847
+    ],
+    "street": "Elm Street",
+    "zipcode": "10468"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 89
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 95
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "B",
+      "score": 83
+    }
+  ],
+  "name": "Elm Street Bakery",
+  "restaurant_id": "30075451"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a10285081b"
+  },
+  "address": {
+    "building": "1606",
+    "coord": [
+      -73.856577,
+      40.848947
+    ],
+    "street": "Sycamore Avenue",
+    "zipcode": "10469"
+  },
+  "cuisine": "Cafeteria",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 92
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 88
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 90
+    }
+  ],
+  "name": "Sycamore Cafeteria",
+  "restaurant_id": "30075452"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a10285081c"
+  },
+  "address": {
+    "building": "1407",
+    "coord": [
+      -73.856677,
+      40.849047
+    ],
+    "street": "Birch Street",
+    "zipcode": "10470"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 86
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 91
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 94
+    }
+  ],
+  "name": "Birch Bakes",
+  "restaurant_id": "30075453"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a10285081d"
+  },
+  "address": {
+    "building": "2008",
+    "coord": [
+      -73.856777,
+      40.849147
+    ],
+    "street": "Palm Lane",
+    "zipcode": "10471"
+  },
+  "cuisine": "Cafeteria Cuisine",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 93
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "B",
+      "score": 82
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 89
+    }
+  ],
+  "name": "Palm Cafeteria",
+  "restaurant_id": "30075454"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a10285081e"
+  },
+  "address": {
+    "building": "1109",
+    "coord": [
+      -73.856877,
+      40.849247
+    ],
+    "street": "Willow Street",
+    "zipcode": "10472"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 90
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 88
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 91
+    }
+  ],
+  "name": "Willow Sweets Bakery",
+  "restaurant_id": "30075455"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a10285081f"
+  },
+  "address": {
+    "building": "1701",
+    "coord": [
+      -73.856977,
+      40.849347
+    ],
+    "street": "Hickory Lane",
+    "zipcode": "10473"
+  },
+  "cuisine": "Cafeteria",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "B",
+      "score": 84
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 92
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 87
+    }
+  ],
+  "name": "Hickory Cafeteria",
+  "restaurant_id": "30075456"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850820"
+  },
+  "address": {
+    "building": "1302",
+    "coord": [
+      -73.857077,
+      40.849447
+    ],
+    "street": "Cherry Street",
+    "zipcode": "10474"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 94
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 89
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 90
+    }
+  ],
+  "name": "Cherry Delights Bakery",
+  "restaurant_id": "30075457"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850821"
+  },
+  "address": {
+    "building": "2104",
+    "coord": [
+      -73.857177,
+      40.849547
+    ],
+    "street": "Aspen Avenue",
+    "zipcode": "10475"
+  },
+  "cuisine": "Cafeteria Cuisine",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 88
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 93
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 92
+    }
+  ],
+  "name": "Aspen Cafeteria",
+  "restaurant_id": "30075458"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850822"
+  },
+  "address": {
+    "building": "1805",
+    "coord": [
+      -73.857277,
+      40.849647
+    ],
+    "street": "Poplar Street",
+    "zipcode": "10476"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 91
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 95
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "B",
+      "score": 83
+    }
+  ],
+  "name": "Poplar Bakes",
+  "restaurant_id": "30075459"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850823"
+  },
+  "address": {
+    "building": "1606",
+    "coord": [
+      -73.857377,
+      40.849747
+    ],
+    "street": "Walnut Avenue",
+    "zipcode": "10477"
+  },
+  "cuisine": "Cafeteria",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 92
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 88
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 90
+    }
+  ],
+  "name": "Walnut Cafeteria",
+  "restaurant_id": "30075460"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850824"
+  },
+  "address": {
+    "building": "1407",
+    "coord": [
+      -73.857477,
+      40.849847
+    ],
+    "street": "Chestnut Street",
+    "zipcode": "10478"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 86
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 91
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 94
+    }
+  ],
+  "name": "Chestnut Delights",
+  "restaurant_id": "30075461"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850825"
+  },
+  "address": {
+    "building": "2008",
+    "coord": [
+      -73.857577,
+      40.849947
+    ],
+    "street": "Pinecone Lane",
+    "zipcode": "10479"
+  },
+  "cuisine": "Cafeteria Cuisine",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 93
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "B",
+      "score": 82
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 89
+    }
+  ],
+  "name": "Pinecone Cafeteria",
+  "restaurant_id": "30075462"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850826"
+  },
+  "address": {
+    "building": "1109",
+    "coord": [
+      -73.857677,
+      40.849547
+    ],
+    "street": "Evergreen Street",
+    "zipcode": "10480"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 90
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 88
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 91
+    }
+  ],
+  "name": "Evergreen Sweets Bakery",
+  "restaurant_id": "30075463"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850827"
+  },
+  "address": {
+    "building": "1119",
+    "coord": [
+      -73.857177,
+      40.849347
+    ],
+    "street": "Evergreen Street",
+    "zipcode": "10481"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 99
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 83
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 89
+    }
+  ],
+  "name": "Omegle Sweets Bakery",
+  "restaurant_id": "30070463"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850828"
+  },
+  "address": {
+    "building": "1419",
+    "coord": [
+      -73.857177,
+      40.849347
+    ],
+    "street": "Evergreen Street",
+    "zipcode": "11481"
+  },
+  "cuisine": "Bakery",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 69
+    },
+    {
+      "date": {
+        "$date": "2020-09-07T06:13:20.000Z"
+      },
+      "grade": "A",
+      "score": 63
+    },
+    {
+      "date": {
+        "$date": "2020-05-14T12:26:40.000Z"
+      },
+      "grade": "A",
+      "score": 69
+    }
+  ],
+  "name": "Green Sweets Bakery",
+  "restaurant_id": "31170463"
+},
+{
+  "_id": {
+    "$oid": "6581411baf8e65a102850829"
+  },
+  "address": {
+    "building": "1432",
+    "coord": [
+      -73.857177,
+      40.849347
+    ],
+    "street": "Evergreen Street",
+    "zipcode": "11481"
+  },
+  "cuisine": "Cafeteria",
+  "grades": [
+    {
+      "date": {
+        "$date": "2021-01-01T00:00:00.000Z"
+      },
+      "grade": "A",
+      "score": 79
+    },
+    {
+      "date": {
+        "$date": "2008-01-04T15:06:40.000Z"
+      },
+      "grade": "A",
+      "score": 67
+    },
+    {
+      "date": {
+        "$date": "2010-11-11T07:06:40.000Z"
+      },
+      "grade": "A",
+      "score": 89
+    }
+  ],
+  "name": "Royal Sweets Bakery",
+  "restaurant_id": "31170999"
+}]
